@@ -36,7 +36,7 @@ namespace ChanceGame
             }
            
 
-            Console.WriteLine("Good Job! The answer was " + returnValue);
+            Console.WriteLine("Good Job! The answer was " + returnValue + "!");
             Console.ReadLine();
 
         }
